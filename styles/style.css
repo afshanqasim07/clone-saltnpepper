@@ -123,7 +123,21 @@ ul{
     gap: 30px;
     margin-top: 20px;
 }
+.headpart{
+    display: flex;
+ justify-content: center;
 
+}
+.img1{
+    height: 600px;
+    border: 1px solid gray;
+    padding: 40px;
+    margin: 50px;
+    width: 500px;
+}
+ .one p{
+    font-size: 1.1rem;
+}
 
 
 
