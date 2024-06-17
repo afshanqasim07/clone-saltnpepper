@@ -81,6 +81,9 @@ gap: 25px;
 .mt5{
     margin-top: 25px;
 }
+.mt6{
+    margin-top: 40px;
+}
 .mb1{
     margin-bottom: 5px;
 }
@@ -205,8 +208,6 @@ p{
 .small{
     font-size: 1rem;
 }
-.textgray{
-    color: rgb(183,157,118);
-}
+
 
 /* text properties ended */

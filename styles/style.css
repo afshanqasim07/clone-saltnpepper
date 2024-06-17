@@ -81,22 +81,48 @@ h2{
     width: 100px;
   }
 .footer{
-    padding: 20px;
-    margin-left: 100px;
+    padding: 10px;
+    margin-left: 200px;
     gap: 50px;
 }
 li{
     list-style: none;
     margin-top: 35px;
+    margin-left: 20px;
 }
-
-
-
-
-
-
-
-
+ul{
+    margin-left:20px ;
+}
+.para{
+    display: flex;
+    justify-content: center;
+    margin-top: 35px;
+}
+.head{
+    margin-right: 100px;
+}
+.txt{
+    margin-right: 100px;
+}
+.headright{
+    margin-right: 20px;
+}
+.text{
+    margin-right: 50px;
+}
+.image3{
+    margin-left: 50px;
+}
+.image4{
+    margin-right: 20px;
+}
+.cardcontainer{
+    display: flex;
+    align-items: center;
+    margin-left: 140px;
+    gap: 30px;
+    margin-top: 20px;
+}
 
 
 
