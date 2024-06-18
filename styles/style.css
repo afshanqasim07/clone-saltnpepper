@@ -138,7 +138,11 @@ ul{
  .one p{
     font-size: 1.1rem;
 }
-
+.backcontainer{
+    background-image: url(/assets/background.PNG);
+    background-repeat: no-repeat;
+    height: 1000px;
+}
 
 
 
