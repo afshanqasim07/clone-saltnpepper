@@ -1,0 +1,14 @@
+.inputfield{
+    width: 400px;
+    background-color: #ffffff;
+    padding: 15px;
+    color: #000000;
+    border-radius: 10px;
+}
+.submit{
+    background-color: #ed1c24;
+    padding: 15px 25px;
+     border-radius: 25px;
+     margin-left: 350px;
+     width: 200px;
+}
