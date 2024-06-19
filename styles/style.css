@@ -144,3 +144,10 @@ ul{
     height: 1000px;
 }
 
+.button{
+    background-color: #ed1c24;
+    padding: 15px 25px;
+     border-radius: 25px;
+     margin-left: 100px;
+     margin-top: 20px;
+}
