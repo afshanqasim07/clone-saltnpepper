@@ -1,9 +1,6 @@
-.bgcontainer{
-    width:100%;
-    background-image: url(/assets/bg-img\ feedback\ page.webp);
-    background-size: cover;
-    background-repeat: no-repeat;
+.bgcontainer img{
     height: 700px;
+    width: 100%;
 }
 .bgtext{
     position: absolute;
@@ -26,7 +23,7 @@
     background-color: transparent;
  }
  .vertical-divider {
-    width: 1px ;
+    width: 2px ;
     height: 1300px;         /* Adjust height as needed */
     background-color: #ffffff;
   }
